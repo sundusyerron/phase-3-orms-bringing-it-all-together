@@ -23,7 +23,8 @@ GEM
     sqlite3 (1.4.2)
 
 PLATFORMS
-  ruby
+  unknown
+  x86_64-linux
 
 DEPENDENCIES
   pry (~> 0.14.1)
